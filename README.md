@@ -1,4 +1,4 @@
-># Controle-Financeiro-Dindin
+># Controle-Financeiro-Dindin 💰
 ## Descrição do projeto
 Projeto realizado como Desafio do Módulo 03 do curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy. O desenvolvimento deste projeto teve como objetivo proporcionar prática no fluxo de trabalho em equipe, a partir da aplicação de metodologias ágeis e utilização de branches na criação de uma RESTful API integrada ao Banco de Dados, além de ser protegida por criptografia de senhas e autenticação de usuários via Token.
 
@@ -301,6 +301,19 @@ filtro[]       Pets
 ```
 
 <img src="./imgsReadme/img12_FiltrarTransaçõesPorCategoria.png" >
+
+## Dados armazenados no Banco de Dados "Dindin"
+Visualização dos dados armazenados no banco de dados "Dindin" para obter uma visão abrangente do sistema de controle financeiro.
+Esses dados foram gerados após a aplicação dos endpoints do projeto, e representam a base essencial do sistema e demonstram a funcionalidade da API RESTful integrada ao Banco de Dados PostgreSQL, com recursos de segurança, como criptografia de senhas, para garantir a proteção dos dados.
+
+* **Tabela de Categorias:** Categorias usadas para classificar transações.
+<img src="./imgsReadme/img13_SQL_Categorias.png" >
+
+* **Tabela de Usuários:** Esta tabela contém detalhes dos usuários do sistema. Vale ressaltar que a senha é armazenada de forma criptografada para garantir a segurança dos dados.
+<img src="./imgsReadme/img14_SQL_Usuários.png" >
+
+* **Tabela de Transações:** Registros de todas as transações financeiras.
+<img src="./imgsReadme/img15_SQL_Transações.png" >
 
 ## Contribua com o Projeto
 
