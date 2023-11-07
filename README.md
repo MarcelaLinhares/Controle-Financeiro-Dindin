@@ -1,6 +1,6 @@
 ># Controle-Financeiro-Dindin 💰
 ## Descrição do projeto
-Projeto realizado como Desafio do Módulo 03 do curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy. O desenvolvimento deste projeto teve como objetivo proporcionar prática no fluxo de trabalho em equipe, a partir da aplicação de metodologias ágeis e utilização de branches na criação de uma RESTful API integrada ao Banco de Dados, além de ser protegida por criptografia de senhas e autenticação de usuários via Token.
+Projeto realizado como Desafio do Módulo 03 do curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy. O desenvolvimento deste projeto teve como objetivo proporcionar prática no fluxo de trabalho em equipe, a partir da aplicação de metodologias ágeis e explorando o uso de branches para gerenciamento de versões e resolução de conflitos na criação de uma RESTful API integrada ao Banco de Dados, além de ser protegida por criptografia de senhas e autenticação de usuários via Token.
 
 A RESTful API foi desenvolvida para gerenciar receitas e despesas, com integração total ao banco de dados PostgreSQL, permitindo a persistência e manipulação de dados de usuários, categorias e transações, fundamentais para o funcionamento da aplicação. Além disso, foram implementadas medidas de segurança, incluindo a criptografia de senhas e autenticação de usuário por meio de tokens, para garantir a proteção dos dados.
 
