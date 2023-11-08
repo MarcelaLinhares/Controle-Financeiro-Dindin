@@ -321,7 +321,7 @@ Esses dados foram gerados após a aplicação dos endpoints do projeto, e repres
 - [ ] Faça as modificações
 - [ ] Realize o Pull Request (PR)
 
-## Contribuidores
+## Desenvolvedoras
 
 <table>
   <tr>
