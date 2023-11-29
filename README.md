@@ -39,7 +39,7 @@ A RESTful API foi desenvolvida para gerenciar receitas e despesas, com integraç
 ![Beekeeper](https://img.shields.io/badge/beekeeper-0D1117?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAFNUExURQAAAP//a/rXOvPUOejMN/jWOvjWOenQOP/fPP3VOf/nOf/xP+zSOPzYOvvYOo98IfTTOfjWOvjWOfjWOffWOf//R1xQFUc+EO7NN/jWOvjWOfjWOffWOfjWOf/cO5J+IvjWOfjWOfjWOffWOfjWOfjWOvfWOfjWOvjWOvnXO/nXOvjWOvfWOfjWOfjWOfjWOfjWOfjWOvfWOfjWOfjWOfjWOvfWOfjWOfjWOfnXOjoyDe/ON/vYOvzZOv3aO5WBIjkxDd7AM8esLpJ+ItC0MPrYOvjWOZaBIzUuDKONJqSOJj83DiQfCJSAIvXTOTcvDM2xL/HQOObGNXppHBUTBcCmLO/PN/rXOvvZOuTFNSokCZqFJJiDIyslCuXGNeXFNbyiKxQRBH5sHefHNX1sHRUSBb+lLPTSOI57ISMeCJF9IfTTOXtrHM+zMP///548sBYAAAA5dFJOUwAAAAAAAAAAAAAAAAAAABqI7eyGGQpYx/v7xlYKNa729qw0KtTSKWH6aPxiK9U3sPf3C1rJ/ByK7y1GWkAAAAABYktHRG4iD1EXAAAAB3RJTUUH5wkZEwMcxtjpWwAAAJtJREFUCB0FwdtKw0AUQNG9JydOW6wIUgUviOiL4P//iC8iiC0iFQURvFBCMse1BDxQ9dMJw0P1irX6rrOVnqk5bXXrtaeq6s/y2QiZqer8o8soQlXVKBnA7vtcVSGACx3Yaw0IyNAeNaGUNtZah+Gt78dWupPu6KV+HbN63Cz/cHGj88tXctq1fHJ/uFODMTPvq9AtbpXMh9+Jf7viMqPTlzUXAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIzLTA5LTI1VDE5OjAzOjI4KzAwOjAwxaUCOQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMy0wOS0yNVQxOTowMzoyOCswMDowMLT4uoUAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjMtMDktMjVUMTk6MDM6MjgrMDA6MDDj7ZtaAAAAAElFTkSuQmCC&logoColor=5849BE)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Executando o projeto
+## 📤 Executando o projeto
 
 Para começar a utilizar a RESTful API de Controle Financeiro Dindin na sua máquina, siga estas etapas:
 
@@ -66,7 +66,7 @@ npm run dev
 
 ```
 
-## Banco de Dados PostgreSQL "Dindin"
+## 📊 Banco de Dados PostgreSQL "Dindin"
 Comandos SQL para a criação do Banco de Dados "Dindin" e de suas respectivas tabelas no software Beekeeper ou em um software similar.
 - [ ] Banco de Dados Dindin
 ```sql
@@ -123,7 +123,7 @@ INSERT INTO categorias (descricao) VALUES
     ('Outras despesas');
 ```
 
-## Endpoints no Insomnia
+## 📑 Endpoints no Insomnia
 Para realizar as requisições com os verbos GET, POST, PUT, DELETE use o framework Insomnia ou similar.
 
 Abra o insomnia e use o caminho (URL Base):
@@ -303,7 +303,7 @@ filtro[]       Pets
 
 <img src="./imgsReadme/img12_FiltrarTransaçõesPorCategoria.png" >
 
-## Dados armazenados no Banco de Dados "Dindin"
+## 📥 Dados armazenados no Banco de Dados "Dindin"
 Visualização dos dados armazenados no banco de dados "Dindin" para obter uma visão abrangente do sistema de controle financeiro.
 Esses dados foram gerados após a aplicação dos endpoints do projeto, e representam a base essencial do sistema e demonstram a funcionalidade da API RESTful integrada ao Banco de Dados PostgreSQL, com recursos de segurança, como criptografia de senhas, para garantir a proteção dos dados.
 
@@ -316,13 +316,13 @@ Esses dados foram gerados após a aplicação dos endpoints do projeto, e repres
 * **Tabela de Transações:** Registros de todas as transações financeiras.
 <img src="./imgsReadme/img15_SQL_Transações.png" >
 
-## Contribua com o Projeto
+## 🤝 Contribua com o Projeto
 
 - [ ] Realize o Fork
 - [ ] Faça as modificações
 - [ ] Realize o Pull Request (PR)
 
-## Desenvolvedoras
+## 👩‍💻 Desenvolvedoras
 
 <table>
   <tr>
